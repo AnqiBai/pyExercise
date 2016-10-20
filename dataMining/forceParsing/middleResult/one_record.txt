@@ -1,0 +1,8 @@
+                             S&P 500 INDEX - TBA
+             COMPANY            GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+    ADDED    CF Industries      Materials                    Fertilizers &
+                                                             Agricultural
+                                                             Chemicals
+    DELETED  Electronic Data    Information Technology       Data Processing &
+             Systems                                         Outsourced
+                                                             Services

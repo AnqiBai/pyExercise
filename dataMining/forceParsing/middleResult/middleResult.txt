@@ -1,0 +1,1323 @@
+
+
+
+                          S&P 500 INDEX   - November 12, 2008
+                  COMPANY         GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+     DELETED General Growth            Financials             Retail REITs
+                Properties
+
+
+
+
+                     S&P 500 INDEX   - November 14, 2008
+             COMPANY         GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+     ADDED   Cephalon            Health Care               Biotechnology
+
+
+
+
+                       S&P MIDCAP 400 INDEX   - November 14, 2008
+                  COMPANY        GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+      ADDED    Mariner Energy          Energy                  Oil & Gas
+                                                             Exploration &
+                                                               Production
+
+     DELETED    Cephalon             Health Care             Biotechnology
+
+
+
+
+
+                     S&P MIDCAP 400 INDEX - October 22, 2008
+               COMPANY        GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+
+     DELETED   DRS               Industrials           Aerospace & Defense
+               Technologies
+
+
+
+
+                     S&P MIDCAP 400 INDEX - October 27, 2008
+               COMPANY       GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+
+     ADDED     Clean             Industrials            Environmental &
+               Harbors                                 Facilities Services
+
+
+
+
+                      S&P SMALLCAP 600 INDEX - October 27, 2008
+               COMPANY          GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+
+      ADDED    CorVel               Health Care           Health Care Services
+
+     DELETED   OMNOVA Solutions     Materials             Specialty Chemicals
+
+
+
+
+                       S&P MIDCAP 400 INDEX - October 31, 2008
+               COMPANY          GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+
+      ADDED    Brink's Home         Industrials           Specialized Consumer
+                Security Holdings                          Services
+
+      DELETED  Charming Shoppes      Consumer             Apparel Retail
+                                      Discretionary
+
+
+
+
+                              S&P MIDCAP 400 INDEX - TBA
+                   COMPANY         GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+      ADDED    Fulton Financial         Financials          Regional Banks
+
+     DELETED   Foundry Networks   Information Technology    Communications
+                                                             Equipment
+
+
+
+
+                      S&P 500 INDEX - September 29, 2008
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    DELETED   Washington Mutual       Financials           Thrifts & Mortgage
+                                                                Finance
+
+
+                       S&P 500 INDEX - October 1, 2008
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED         Flowserve           Industrials         Industrial Machinery
+
+
+                    S&P MIDCAP 400 INDEX - October 1, 2008
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED            UGI               Utilities             Gas Utilities
+    DELETED       Flowserve           Industrials         Industrial Machinery
+
+
+                   S&P SMALLCAP 600 INDEX - October 1, 2008
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED           Taleo             Information             Application
+                                       Technology               Software
+    DELETED          UGI               Utilities             Gas Utilities
+
+
+
+
+
+                       S&P 100 INDEX - September 16, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+     DELETED  Lehman Brothers         Financials        Investment Banking &
+                  Holdings                                   Brokerage
+
+
+
+                       S&P 500 INDEX - September 16, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+     DELETED  Lehman Brothers         Financials        Investment Banking &
+                  Holdings                                   Brokerage
+
+
+
+                       S&P 100 INDEX - September 19, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED      Occidental             Energy          Integrated Oil & Gas
+                 Petroleum
+
+
+                       S&P 500 INDEX - September 19, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED        Harris       Information Technology     Communications
+                                                             Equipment
+
+
+
+                    S&P MIDCAP 400 INDEX - September 19, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED        Greif               Materials           Metal & Glass
+                                                             Containers
+
+     DELETED       Harris       Information Technology     Communications
+                                                             Equipment
+
+
+
+
+
+                             S&P MIDCAP 400 INDEX   - TBA
+                  COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+      ADDED  FactSet Research        Information            Application
+                  Systems             Technology              Software
+
+     DELETED   Energy East           Utilities           Multi-Utilities
+
+
+
+
+
+                            S&P SMALLCAP 600 INDEX   - TBA
+                 COMPANY         GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+      ADDED      Landauer             Health Care         Health Care Services
+
+     DELETED FactSet Research         Information
+                 Systems              Technology         Application Software
+
+
+
+
+
+
+                             S&P 500 INDEX - TBA
+
+             COMPANY            GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+    ADDED    CF Industries      Materials                    Fertilizers &
+                                                             Agricultural
+                                                             Chemicals
+
+    DELETED  Electronic Data    Information Technology       Data Processing &
+             Systems                                         Outsourced
+                                                             Services
+
+
+
+                          S&P MIDCAP 400 INDEX - TBA
+
+             COMPANY            GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+    ADDED    SAIC               Information Technology       IT Consulting &
+                                                             Other Services
+
+    DELETED  CF Industries      Materials                    Fertilizers &
+                                                             Agricultural
+                                                             Chemicals
+
+
+
+
+                          S&P MIDCAP 400 INDEX   - August 1, 2008
+
+          COMPANY            GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+
+      ADDED  Priceline.com   Consumer Discretionary       Internet Retail
+
+     DELETED KEMET           Information Technology       Electronic
+                                                          Manufacturing
+                                                          Services
+
+
+
+
+
+
+                            S&P MIDCAP 400 INDEX   - August 4, 2008
+
+                   COMPANY        GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+
+      ADDED   Ralcorp Holdings    Consumer Staples       Packaged Foods &
+                                                            Meats
+
+     DELETED  Par Pharmaceutical  Health Care            Pharmaceuticals
+
+
+
+
+
+                           S&P SMALLCAP 600 INDEX   - August 4, 2008
+
+             COMPANY            GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+
+      ADDED  Par Pharmaceutical  Health Care           Pharmaceuticals
+
+     DELETED  Ralcorp Holdings   Consumer Staples      Packaged Foods &
+                                                             Meats
+
+
+
+
+
+                         S&P SMALLCAP 600 INDEX   - August 4, 2008
+
+             COMPANY          GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+
+      ADDED  Cedar Shopping   Financials            Retail REITs
+                 Centers
+
+     DELETED    Angelica      Industrials           Diversified Commercial
+                                                    & Professional
+                                                        Services
+
+
+
+
+
+
+
+                     S&P MIDCAP 400 INDEX - July 9, 2008
+
+                     COMPANY         GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+
+    ADDED     Helix Energy Solutions       Energy              Oil & Gas
+                                                          Equipment & Services
+
+    DELETED   Activision                  Information       Home Entertainment
+                                           Technology             Software
+
+
+
+                    S&P SMALLCAP 600 INDEX - July 9, 2008
+
+                     COMPANY         GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+
+    ADDED     True Religion Apparel       Consumer        Apparel, Accessories
+                                        Discretionary         & Luxury Goods
+
+    DELETED   Helix Energy Solutions        Energy               Oil & Gas
+                                                          Equipment & Services
+
+
+
+
+
+                   S&P MIDCAP 400 INDEX - February 12, 2008
+
+              COMPANY           GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+    ADDED      AptarGroup        Materials            Metals & Glass Containers
+    DELETED   Ventana Medical   Health Care          Life Sciences Tools &
+               Systems                                Services
+
+
+                  S&P SMALLCAP 600 INDEX - February 12, 2008
+
+              COMPANY           GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+    ADDED     NewMarket         Materials                  Specialty Chemicals
+    DELETED    AptarGroup        Materials            Metals & Glass Containers
+
+   
+
+
+
+
+                   S&P MIDCAP 400 INDEX - February 8, 2008
+
+                    COMPANY        GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+
+    ADDED          Belo (new)           Consumer                Broadcasting &
+                                      Discretionary               Cable TV
+
+    DELETED        Belo (old)           Consumer                 Publishing
+                                      Discretionary
+
+
+
+                  S&P SMALLCAP 600 INDEX - February 8, 2008
+
+                    COMPANY        GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+
+    ADDED           A.H. Belo            Consumer                 Publishing
+                                      Discretionary
+
+    DELETED        Napster             Information          Home Entertainment
+                                       Technology                Software
+
+
+   
+
+
+                        S&P 500 INDEX - December 20, 2007
+
+             COMPANY            GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+
+    ADDED    Range Resources    Energy                     Oil & Gas
+                                                            Exploration &
+                                                            Production
+
+    DELETED  Tribune            Consumer Discretionary     Publishing
+
+
+
+                   S&P SMALLCAP 600 INDEX - December 18, 2007
+
+             COMPANY            GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+
+    ADDED    Salix              Health Care                Pharmaceuticals
+
+    DELETED  Coherent           Information Technology     Electronic
+                                                            Equipment
+                                                            Manufacturers
+   
+
+
+
+
+                     S&P MIDCAP 400 INDEX - December 20, 2007
+
+              COMPANY             GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+
+    ADDED     Federal Realty      Financials               Retail REITs
+
+    DELETED    Lyondell Chemical   Materials                Commodity Chemicals
+
+
+
+                     S&P SMALLCAP 600 INDEX - TBA
+
+              COMPANY             GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+
+    ADDED      UMB Financial       Financials               Regional Banks
+
+    DELETED   EDO                 Industrials              Aerospace & Defense
+
+   
+
+
+
+                             S&P 500 INDEX -- TBA
+
+             COMPANY          GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+
+                                                               Computer &
+    ADDED    GameStop        Consumer Discretionary         Electronics Retail
+    DELETED   Dow Jones & Co. Consumer Discretionary            Publishing
+
+
+                         S&P MIDCAP 400 INDEX -- TBA
+
+             COMPANY          GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+
+    ADDED     BE Aerospace         Industrials             Aerospace & Defense
+                                                               Computer &
+    DELETED  GameStop        Consumer Discretionary         Electronics Retail
+
+   
+
+
+
+                   S&P MIDCAP 400 INDEX - December 6, 2007
+                 COMPANY           GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED     Kansas City Southern      Industrials             Railroads
+
+
+                  S&P SMALLCAP 600 INDEX - December 6, 2007
+                 COMPANY           GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED    BioMed Realty Trust       Financials             Office REITs
+    DELETED   Kansas City Southern      Industrials             Railroads
+
+
+   
+
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+
+              COMPANY      GICS ECONOMIC SECTOR        GICS SUB-INDUSTRY
+
+    ADDED       URS           Industrials           Construction & Engineering
+    DELETED    Micrel      Information Technology        Semiconductors
+
+                   S&P SMALLCAP 600 INDEX - To Be Announced
+
+              COMPANY      GICS ECONOMIC SECTOR        GICS SUB-INDUSTRY
+
+    ADDED      Micrel      Information Technology        Semiconductors
+    DELETED     URS           Industrials           Construction & Engineering
+   
+
+
+                       S&P 500 INDEX - October 25, 2007
+
+                   COMPANY        GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+    ADDED         Jacobs           Industrials      Construction & Engineering
+                  Engineering
+    DELETED        Avaya Inc.       Information      Communications Equipment
+                                   Technology
+
+                   S&P MIDCAP 400 INDEX - October 25, 2007
+
+                   COMPANY        GICS ECONOMIC       GICS SUB-INDUSTRY
+                                     SECTOR
+    ADDED          CF Industries     Materials       Fertilizer & Agricultural
+                  Holdings                                   Chemicals
+    DELETED       Jacobs            Industrials     Construction & Engineering
+                  Engineering
+   
+
+
+                         S&P 100 INDEX - October 24, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED     NYSE Euronext          Financials        Specialized Finance
+     DELETED    Limited Brands   Consumer Discretionary     Apparel Retail
+
+
+                         S&P 500 INDEX - October 24, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED     NYSE Euronext          Financials        Specialized Finance
+     DELETED    Hilton Hotels    Consumer Discretionary   Hotels, Resorts &
+                                                               Cruise
+                                                               Lines
+
+
+                         S&P 500 INDEX - To Be Announced
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED   Titanium Metals          Materials        Diversified Metals &
+                                                               Mining
+     DELETED    Bausch & Lomb          Health Care       Health Care Supplies
+   
+
+
+
+                      S&P MIDCAP 400 INDEX - To Be Announced
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED    Cleveland-Cliffs        Materials                Steel
+     DELETED    Ohio Casualty          Financials        Property & Casualty
+                                                             Insurance
+
+
+
+                     S&P SMALLCAP 600 INDEX - To Be Announced
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED    Phase Forward         Health Care       Health Care Technology
+     DELETED   Cleveland-Cliffs        Materials                Steel
+
+
+
+                     S&P SMALLCAP 600 INDEX - To Be Announced
+
+                   COMPANY          GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED        Zumiez         Consumer Discretionary     Apparel Retail
+     DELETED    CT Communications    Telecommunication          Integrated
+                                       Services            Telecommunication
+                                                                Services
+
+   
+
+
+                         S&P 500 INDEX -- August 24, 2007
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED   Leucadia National        Financials       Multi-Sector Holdings
+     DELETED      Keyspan              Utilities          Multi-Utilities
+
+
+                      S&P MIDCAP 400 INDEX - August 24, 2007
+
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+      ADDED   Life Time Fitness  Consumer Discretionary    Leisure Facilities
+     DELETED  Leucadia National        Financials        Multi-Sector Holdings
+
+   
+
+
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+
+                COMPANY             GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED       Exterran Holdings          Energy               Oil & Gas
+                                                          Equipment & Services
+
+    DELETED     Hanover Compressor         Energy               Oil & Gas
+                                                          Equipment & Services
+
+
+                  S&P SMALLCAP 600 INDEX - August 17 , 2007
+
+                COMPANY             GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED        Tyler Technologies  Information Technology     Application
+                                                                Software
+
+    DELETED     Stride Rite         Consumer Discretionary      Footwear
+
+
+                   S&P SMALLCAP 600 INDEX - To Be Announced
+
+                COMPANY             GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED        FARO Technologies   Information Technology     Electronic
+                                                                Equipment
+                                                                Manufacturers
+    DELETED     Vertrue             Consumer Discretionary     Specialized
+                                                                Consumer
+                                                                Services
+
+   
+
+
+                    S&P MIDCAP 400 INDEX - August 1, 2007
+
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+    ADDED    IDEX               Industrials            Industrial
+                                                       Machinery
+    DELETED   BISYS Group        Information            Data Processing &
+                                Technology             Outsourced
+                                                       Services
+
+
+                   S&P SMALLCAP 600 INDEX - August 1, 2007
+
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+    ADDED    CyberSource        Information            Internet Software
+                                Technology             & Services
+    DELETED  IDEX               Industrials            Industrial
+                                                       Machinery
+
+
+                   S&P SMALLCAP 600 INDEX - August 2, 2007
+
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+    ADDED     SYNNEX             Information            Technology
+                                Technology             Distributors
+    DELETED  EGL                Industrials            Air Freight &
+                                                       Logistics
+
+
+                   S&P SMALLCAP 600 INDEX -   
+
+- To Be Announced
+
+             COMPANY            GICS ECONOMIC           GICS SUB-INDUSTRY
+                                  SECTOR
+    ADDED     The Knot          Information                  Internet
+                                Technology               Software & Services
+
+    DELETED   Aeroflex          Information              Electronic Equipment
+                                Technology                  Manufacturers
+   
+
+
+    S&P MIDCAP 400 INDEX - July 25, 2007
+
+             COMPANY            GICS ECONOMIC         GICS SUB-INDUSTRY
+                                  SECTOR
+    ADDED    Kyphon             Health Care           Health Care Equipment
+    DELETED   Triad Hospitals    Health Care           Health Care Facilities
+
+
+    S&P SMALLCAP 600 INDEX - July 25, 2007
+
+             COMPANY            GICS ECONOMIC         GICS SUB-INDUSTRY
+                                  SECTOR
+    ADDED     MedCath            Health Care           Health Care Facilities
+    DELETED  Digene             Health Care           Biotechnology
+
+
+    S&P SMALLCAP 600 INDEX - July 31, 2007
+
+             COMPANY            GICS ECONOMIC         GICS SUB-INDUSTRY
+                                  SECTOR
+    ADDED    PharMerica         Health Care           Health Care Distributors
+    DELETED   Pope & Talbot      Materials             Paper Products
+
+
+    S&P SMALLCAP 600 INDEX - To Be Announced
+             COMPANY            GICS ECONOMIC         GICS SUB-INDUSTRY
+                                  SECTOR
+    ADDED    Universal          Consumer              Consumer Electronics
+              Electronics        Discretionary
+    DELETED   Armor Holdings     Industrials           Aerospace & Defense
+
+   
+
+
+                          S&P 500 INDEX - July 11, 2007
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+      ADDED        Akamai       Information Technology  Internet Software &
+                Technologies                                  Services
+
+     DELETED        Biomet            Health Care       Health Care Equipment
+
+
+
+                     S&P SMALLCAP 600 INDEX - To Be Announced
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+      ADDED     NATCO Group             Energy         Oil & Gas Equipment &
+                                                              Services
+
+     DELETED Genesis Healthcare      Health Care       Health Care Facilities
+
+
+
+                      S&P REIT COMPOSITE - To Be Announced
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+      ADDED   Winthrop Realty         Financials         Diversified REITs
+                   Trust
+
+     DELETED      Highland            Financials         Specialized REITs
+                Hospitality
+   
+
+
+                         S&P 500 INDEX - July 6, 2007
+
+                  COMPANY      GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED     American Capital       Financials          Asset Management &
+                Strategies                                 Custody Bank
+    DELETED    Dollar General   Consumer Discretionary   General Merchandise
+                                                                 Stores
+
+                     S&P MIDCAP 400 INDEX - July 6, 2007
+
+                  COMPANY      GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED      Bill Barrett            Energy               Oil & Gas
+                                                           Exploration &
+                                                            Production
+    DELETED      Laureate      Consumer Discretionary        Education
+                 Education                                   Services
+   
+
+
+
+                        S&P 100 INDEX - June 29, 2007
+                 COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+    ADDED   The Bank of New York     Financials           Asset Management &
+              Mellon Corp.                               Custody Banks
+    DELETED   Computer Sciences      Information          Data Processing &
+                                    Technology          Outsourced Services
+
+
+                        S&P 500 INDEX - June 29, 2007
+                COMPANY         GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+    ADDED  The Bank of New York      Financials          Asset Management &
+              Mellon Corp.                                Custody Banks
+            General Growth          Financials            Retail REITs
+              Properties
+    DELETED The Bank of New         Financials          Asset Management &
+             York Company                                  Custody Banks
+            Mellon Financial        Financials          Asset Management &
+                                                           Custody Banks
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+               COMPANY          GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+    ADDED  First Community          Financials            Regional Banks
+               Bancorp
+    DELETED  Investors              Financials          Asset Management &
+           Financial Services                              Custody Banks
+
+
+                      S&P REIT COMPOSITE - June 29, 2007
+               COMPANY          GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+    ADDED  Supertel Hospitality     Financials          Specialized REITs
+           Republic Property        Financials             Office REITs
+                Trust
+    DELETED Winston Hotels          Financials          Specialized REITs
+            Innkeepers USA          Financials          Specialized REITs
+                Trust
+   
+
+
+                          S&P 100 INDEX - June 29, 2007
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED       Covidien            Health Care      Health Care Equipment
+              Tyco International       Industrials            Industrial
+                   (new)                                   Conglomerates
+     DELETED      National      Information Technology     Semiconductors
+               Semiconductor
+             Tyco International       Industrials            Industrial
+                   (old)                                   Conglomerates
+
+
+
+                          S&P 500 INDEX - June 29, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED       Covidien            Health Care      Health Care Equipment
+               Tyco Electronics  Information Technology       Electronic
+                                                           Manufacturing
+                                                              Services
+             Tyco International       Industrials            Industrial
+                   (new)                                   Conglomerates
+             Discover Financial       Financials          Consumer Finance
+                  Services
+     DELETED     Sanmina-SCI     Information Technology       Electronic
+                                                           Manufacturing
+                                                              Services
+                 PMC-Sierra     Information Technology     Semiconductors
+             Tyco International       Industrials            Industrial
+                   (old)                                   Conglomerates
+                    ADC         Information Technology     Communications
+             Telecommunications                              Equipment
+
+
+
+                       S&P MIDCAP 400 INDEX - June 29, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED         ADC         Information Technology     Communications
+             Telecommunications                              Equipment
+     DELETED   PH Glatfelter           Materials           Paper Products
+
+
+   
+
+
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+             COMPANY                 GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED     Carpenter Technology    Materials               Steel
+    DELETED  OSI Restaurant Partners Consumer Discretionary  Restaurants
+
+
+                  S&P SMALLCAP 600  INDEX - To Be Announced
+             COMPANY               GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Alabama National      Financials                Regional Banks
+    DELETED   Carpenter Technology  Materials                 Steel
+
+
+                    S&P SMALLCAP 600 INDEX - June 4, 2007
+             COMPANY               GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Charlotte Russe       Consumer Discretionary    Apparel Retail
+    DELETED  Keane                 Information Technology    IT Consulting &
+
+   
+
+
+                         S&P 100 INDEX - May 31, 2007
+                 COMPANY           GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED         Apple           Information Technology     Computer Hardware
+    DELETED     MedImmune               Health Care           Biotechnology
+
+
+                         S&P 500 INDEX - May 31, 2007
+                 COMPANY           GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Precision Castparts       Industrials          Aerospace & Defense
+    DELETED     MedImmune             Health Care              Biotechnology
+
+
+                     S&P MIDCAP 400 INDEX - May 31, 2007
+                 COMPANY           GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED     Endo Pharmaceuticals      Health Care             Pharmaceuticals
+    DELETED    Precision Castparts      Industrials         Aerospace & Defense
+   
+
+
+
+                       S&P MIDCAP 400 INDEX - May 31, 2007
+
+                COMPANY        GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Digital River    Information Technology     Internet Software &
+                                                             Services
+    DELETED    Duquesne             Utilities            Electric Utilities
+
+
+                    S&P MIDCAP 400  INDEX - To Be Announced
+
+                 COMPANY      GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED         NBTY Inc.      Consumer Staples       Personal Products
+    DELETED  Claire's Stores  Consumer Discretionary   Specialty Stores
+
+
+                    S&P SMALLCAP 600 INDEX - To Be Announced
+
+               COMPANY       GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+    ADDED    AMIS Holdings   Information Technology      Semiconductors
+    DELETED     NBTY Inc.        Consumer Staples        Personal Products
+
+
+                  S&P SMALLCAP 600 INDEX - To Be Announced
+
+                  COMPANY        GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+    ADDED      Authorize.Net     Information Technology     Data Procaessing &
+                                                           Outsourced Services
+    DELETED   Steel Technologies       Materials                  Steel
+
+   
+
+
+                         S&P 500 INDEX - To Be Announced
+
+                   COMPANY       GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+    ADDED      MEMC Electronic   Information Technology       Semiconductor
+                 Materials                                      Equipment
+    DELETED    Kinder Morgan            Energy              Oil & Gas Storage
+                                                            & Transportation
+
+
+                      S&P MIDCAP 400 INDEX - To Be Announced
+
+                   COMPANY       GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+    ADDED     Nationwide Health       Financials            Specialized REITs
+                  Properties
+    DELETED   MEMC Electronic    Information Technology       Semiconductor
+                  Materials                                     Equipment
+   
+
+
+                    S&P SMALLCAP 600 INDEX - May 21, 2007
+             COMPANY             GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+    ADDED     Iconix Brand Group  Consumer Discretionary Footwear
+    DELETED  WebEx               Information Technology Internet Software &
+             Communications                             Services
+
+
+                     S&P MIDCAP 400 INDEX - May 22, 2007
+             COMPANY             GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+    ADDED     Kindred Healthcare  Health Care            Health Care Facilities
+    DELETED   Martek Biosciences  Health Care            Biotechnology
+
+
+                    S&P SMALLCAP 600 INDEX - May 22, 2007
+             COMPANY             GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+    ADDED     Martek Biosciences  Health Care            Biotechnology
+    DELETED  Central Parking     Industrial             Environmental &
+                                                        Facilities Services
+   
+
+
+                     S&P MIDCAP 400 INDEX - April 20, 2007
+                 COMPANY            GICS ECONOMIC     GICS SUB-INDUSTRY
+                                     SECTOR
+        ADDED    Commerce Group     Financials        Property & Casualty
+                                                       Insurance
+        DELETED   ADESA Inc.         Industrials       Diversified Commercial &
+                                                       Professional Services
+
+
+                     S&P MIDCAP 400 INDEX - To Be Announced
+                 COMPANY            GIC ECONOMIC      GICS SUB-INDUSTRY
+                                     SECTOR
+        ADDED    Cousins            Financials        Office REITs
+                 Properties
+        DELETED   Longview Fibre     Financials        Specialized REITs
+
+
+                     S&P SMALLCAP 600 INDEX - April 18, 2007
+                 COMPANY            GICS ECONOMIC     GICS SUB-INDUSTRY
+                                     SECTOR
+        ADDED    Lithia Motors      Consumer          Automotive Retail
+                                     Discretionary
+        DELETED   MapInfo            Information       Application Software
+                                     Technology
+
+
+                     S&P SMALLCAP 600 INDEX - To Be Announced
+                 COMPANY            GICS ECONOMIC     GICS SUB-INDUSTRY
+                                     SECTOR
+        ADDED    Tanger Factory     Financials        Retail REITs
+                  Outlet Centers
+        DELETED  United Surgical    Health Care       Health Care Facilities
+                  Partners
+   
+
+
+
+
+                        S&P 500 INDEX - April 9, 2007
+
+               COMPANY      GICS ECONOMIC    GICS SUB-INDUSTRY
+                               SECTOR
+
+    ADDED      Assurant      Financials   Multi-line Insurance
+    DELETED    Realogy       Financials   Real Estate Management & Development
+
+
+
+                   S&P SMALLCAP 600 INDEX - To Be Announced
+
+                                 GICS ECONOMIC     GICS
+                 COMPANY            SECTOR      SUB-INDUSTRY
+
+    ADDED     Frontier Financial  Financials   Regional Banks
+    DELETED   Altiris             Information  Technology Application Software
+
+
+   
+
+
+
+                        S&P 500 INDEX - March 28, 2007
+                  COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED    Abercrombie &        Consumer             Apparel Retail
+                   Fitch          Discretionary
+     DELETED     Univision          Consumer         Broadcasting & Cable TV
+                                  Discretionary
+
+
+                    S&P MIDCAP 400  INDEX - March 28, 2007
+                  COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED    Phillips-Van         Consumer         Apparel, Accessories &
+                  Heusen          Discretionary           Luxury Goods
+     DELETED   Abercrombie &        Consumer             Apparel Retail
+                   Fitch          Discretionary
+
+
+                    S&P MIDCAP 400  INDEX - April 4, 2007
+                  COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED      NVR Inc.           Consumer              Homebuilding
+                                  Discretionary
+     DELETED  New Plan Excel       Financials             Retail REITs
+               Realty Trust
+
+
+                   S&P SMALLCAP 600 INDEX - March 28, 2007
+                  COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED      Blackbaud         Information        Application Software
+                                   Technology
+     DELETED   Phillips-Van         Consumer         Apparel, Accessories &
+                  Heusen          Discretionary           Luxury Goods
+
+
+                   S&P SMALLCAP 600 INDEX - March 30, 2007
+                  COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED   Spartan Stores    Consumer Staples        Food Distributors
+     DELETED     Carreker          Information          Data Processing &
+                                   Technology          Outsourced Services
+
+
+                    S&P SMALLCAP 600 INDEX - April 4, 2007
+                  COMPANY         GICS ECONOMIC        GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED     Arris Group        Information           Communications
+                                   Technology              Equipment
+     DELETED     NVR Inc.           Consumer              Homebuilding
+                                  Discretionary
+
+
+                  S&P REIT COMPOSITE INDEX - March 28, 2007
+                  COMPANY         GICS ECONOMIC        GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED      Education         Financials          Residential REITs
+               Realty Trust
+     DELETED       Mills           Financials             Retail REITs
+
+
+                   S&P REIT COMPOSITE INDEX - April 4, 2007
+            COMPANY               GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+    ADDED   One Liberty           Financials             Diversified REITs
+
+            Properties
+    DELETED New Plan Excel        Financials             Retail REITs
+            Realty Trust
+
+  
+
+
+
+
+                        S&P 100 INDEX - March 30, 2007
+
+                 COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED        Kraft Foods    Consumer Staples        Packaged Foods & Meats
+    DELETED      Eastman Kodak  Consumer Discretionary  Photographic
+                                                         Products
+
+
+                        S&P 500 INDEX - March 30, 2007
+
+                 COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED        Kraft Foods    Consumer Staples        Packaged Foods & Meats
+    DELETED      Sabre Holdings Information Technology  Data Processing &
+                                                         Outsourced Services
+
+
+                    S&P MIDCAP 400 INDEX - March 30, 2007
+
+                 COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+    ADDED        Broadridge     Information             Data Processing &
+                  Financial     Technology              Outsourced Services
+                  Solutions
+
+                 KBR Inc.       Industrials             Construction &
+                                                         Engineering
+
+    DELETED      Plexus         Information Technology  Electronic
+
+                                                         Manufacturing
+                                                         Services
+
+                 Newport        Information Technology  Electronic Equipment
+                                                         Manufacturers
+
+
+                   S&P SMALLCAP 600 INDEX - March 30, 2007
+
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+
+    ADDED         Plexus         Information Technology  Electronic
+
+                                                          Manufacturing
+                                                          Services
+
+                  Newport        Information Technology  Electronic Equipment
+                                                          Manufacturers
+
+    DELETED       Wellman        Materials               Commodity
+
+
+                                                          Chemicals
+
+                  Lenox Group    Consumer Discretionary  Housewares &
+                                                          Specialties
+
+
+  
+
+
+                        S&P 100 INDEX - March 20, 2007
+
+                  COMPANY         GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED      CVS/Caremark        Consumer Staples           Drug Retail
+    DELETED   Black & Decker    Consumer Discretionary    Household Appliances
+
+
+                        S&P 500 INDEX - March 20, 2007
+
+                  COMPANY         GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED        Developers            Financials             Retail REITs
+             Diversified Realty
+    DELETED     Caremark Rx          Health Care          Health Care Services
+
+
+                    S&P MIDCAP 400 INDEX - March 20, 2007
+
+                  COMPANY         GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED   Wellcare Health Plans       Health Care       Managed Health Care
+    DELETED     Developers               Financials          Retail REITs
+             Diversified Realty
+  
+
+
+                       S&P 500 INDEX - To Be Announced
+                   COMPANY          GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+    ADDED    Host Hotels & Resorts      Financials         Specialized REITs
+    DELETED     Phelps Dodge            Materials          Diversified Metals
+                                                               & Mining
+
+                   S&P SMALLCAP 600 INDEX - March 15, 2007
+                  COMPANY       GICS ECONOMIC SECTOR        GICS SUB-INDUSTRY
+    ADDED       Option Care        Health Care            Health Care Services
+    DELETED   Hancock Fabrics  Consumer Discretionary       Specialty Stores
+  
+
+
+                        S&P 500 INDEX - March 1, 2007
+
+                      COMPANY          GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+    ADDED           CH Robinson            Industrials          Air Freight &
+                     Worldwide                                    Logistics
+
+    DELETED      Health Management         Health Care           Health Care
+                    Associates                                    Facilities
+
+                     S&P MIDCAP 400 INDEX - March 1, 2007
+
+                      COMPANY          GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+    ADDED        Health Management         Health Care           Health Care
+                    Associates                                    Facilities
+
+    DELETED         CH Robinson            Industrials          Air Freight &
+                     Worldwide                                    Logistics
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+
+                      COMPANY          GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+                                                                 Integrated
+    ADDED             NeuStar          Telecommunication     Telecommunication
+                                            Services              Services
+
+    DELETED          Reader's               Consumer             Publishing
+                      Digest             Discretionary
+   
+
+
+
+                   S&P SMALLCAP 600 INDEX - To Be Announced
+
+                 COMPANY               GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+    ADDED    Monarch Casino & Resort  Consumer Discretionary  Casino & Gaming
+    DELETED     ADVO Inc.             Consumer Discretionary     Publishing
+
+
+                 S&P REIT COMPOSITE INDEX - February 26, 2007
+
+                   COMPANY    GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED     American Campus       Financials         Residential REITs
+                Communities
+    DELETED  Trustreet Properties   Financials         Specialized REITs
+
+  
+
+
+
+                       S&P 500 INDEX - To Be Announced
+                COMPANY   GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED       Varian        Health Care        Health Care Equipment
+    DELETED  Equity Office    Financials             Office REITs
+              Properties
+
+
+                       S&P 500 INDEX - To Be Announced
+                COMPANY    GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED   Integrys Energy     Utilities            Multi-Utilities
+    DELETED  Peoples Energy     Utilities             Gas Utilities
+
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+                COMPANY   GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED        Cerner       Health Care        Health Care Technology
+    DELETED      Varian       Health Care         Health Care Equipment
+
+
+                    S&P MIDCAP 400 INDEX - To Be Announced
+                COMPANY   GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED       Netflix   Consumer Discretionary   Internet Retail
+    DELETED  WPS Resources    Utilities             Multi-Utilities
+
+
+                   S&P SMALLCAP 600 INDEX - To Be Announced
+                   COMPANY      GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED     PSS World Medical      Health Care      Health Care Distributors
+    DELETED         Cerner           Health Care      Health Care Technology
+
+
+                  S&P REIT COMPOSITE INDEX - To Be Announced
+                    COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED     Extra Space Storage       Financials          Specialized REITs
+    DELETED   Equity Office Properties  Financials            Office REITs
+
+  
+
+
+
+                       S&P 500 INDEX - February 1, 2007
+
+                  COMPANY         GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Polo Ralph Lauren   Consumer Discretionary   Apparel, Accessories
+                                                             & Luxury Goods
+
+                   S&P MIDCAP 400 INDEX - February 1, 2007
+                  COMPANY         GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED      Frontier Oil             Energy              Oil & Gas Refining
+                                                               & Marketing
+    DELETED  Polo Ralph Lauren  Consumer Discretionary    Apparel, Accessories
+                                                            & Luxury Goods
+
+                  S&P SMALLCAP 600 INDEX - February 1, 2007
+                 COMPANY          GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED      HealthExtras          Health Care          Health Care Services
+    DELETED    Frontier Oil             Energy            Oil & Gas Refining &
+                                                              Marketing
+
+                  S&P SMALLCAP 600 INDEX - February 6, 2007
+                 COMPANY          GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED   Central Garden & Pet   Consumer Staples       Household Products
+                "A" shares
+    DELETED Central Garden & Pet   Consumer Staples       Household Products
+              "common" shares
+
+                   S&P SMALLCAP 600 INDEX - To Be Announced
+                 COMPANY          GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED       UniFirst         Consumer Discretionary   Apparel, Accessories
+                                                            & Luxury Goods
+    DELETED  Digital Insight     Information Technology     Internet Software
+                                                              & Services
+  
+
+
+                  S&P SMALLCAP 600 INDEX - January 25, 2007
+                     COMPANY     GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED          ViroPharma          Health Care          Pharmaceuticals
+    DELETED   Per-Se Technologies      Health Care      Health Care Technology
+
+
+                 S&P REIT COMPOSITE INDEX - January 24, 2007
+                     COMPANY     GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED          Agree Realty       Financials             Retail REITs
+    DELETED   CentraCore Properties   Financials          Specialized REITs
+
+
+                 S&P REIT COMPOSITE INDEX - January 25, 2007
+                     COMPANY     GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED      Strategic Hotels &      Financials          Specialized REITs
+                   Resorts
+    DELETED   Reckson Associates       Financials            Office REITs
+  
+
+
+
+
+                             S&P 500 INDEX - TBA
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED      AvalonBay            Financials         Residential REITs
+     DELETED       Symbol       Information Technology  Electronic Equipment
+                Technologies                               Manufacturers
+
+
+
+                    S&P MIDCAP 400 INDEX - January 9, 2007
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED   Global Payments   Information Technology   Data Processing &
+                                                        Outsourced Services
+     DELETED       Banta              Industrials       Commercial Printing
+
+
+
+                   S&P SMALLCAP 600 INDEX - January 9, 2007
+
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED      Gibraltar             Materials               Steel
+                 Industries
+     DELETED  Global Payments   Information Technology   Data Processing &
+                                                        Outsourced Services
+  
+
+
+                       S&P 500 INDEX - January 3, 2007
+
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+
+    ADDED    ENSCO              Energy                 Oil & Gas
+             International                             Drilling
+
+    DELETED  BellSouth          Telecommunication      Integrated
+                                Services               Telecommunication
+                                                       Services
+
+
+                    S&P MIDCAP 400 INDEX - January 3, 2007
+
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+
+    ADDED    Cimarex Energy     Energy                 Oil & Gas
+                                                       Exploration &
+                                                       Production
+
+    DELETED  ENSCO              Energy                 Oil & Gas
+             International                             Drilling
+
+
+                   S&P SMALLCAP 600 INDEX - January 3, 2007
+
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+
+    ADDED    Hornbeck           Energy                 Oil & Gas
+             Offshore                                  Equipment &
+                                                       Services
+
+    DELETED  Cimarex Energy     Energy                 Oil & Gas
+                                                       Exploration &
+                                                       Production
+  
+

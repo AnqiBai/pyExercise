@@ -1,0 +1,124 @@
+84                           S&P 500 INDEX   - November 12, 2008
+85                   COMPANY         GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+86      DELETED General Growth            Financials             Retail REITs
+87                 Properties
+88 
+92                      S&P 500 INDEX   - November 14, 2008
+93              COMPANY         GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+94      ADDED   Cephalon            Health Care               Biotechnology
+95 
+280                       S&P 500 INDEX - September 29, 2008
+281                    COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+282     DELETED   Washington Mutual       Financials           Thrifts & Mortgage
+283                                                                 Finance
+284 
+286                        S&P 500 INDEX - October 1, 2008
+287                    COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+288     ADDED         Flowserve           Industrials         Industrial Machinery
+289 
+367                        S&P 500 INDEX - September 16, 2008
+368                   COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+369      DELETED  Lehman Brothers         Financials        Investment Banking &
+370                   Holdings                                   Brokerage
+371 
+380                        S&P 500 INDEX - September 19, 2008
+381                   COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+382       ADDED        Harris       Information Technology     Communications
+383                                                              Equipment
+384 
+500                              S&P 500 INDEX - TBA
+501 
+892                         S&P 500 INDEX - December 20, 2007
+893 
+1033                              S&P 500 INDEX -- TBA
+1034 
+1225                        S&P 500 INDEX - October 25, 2007
+1226 
+1304                          S&P 500 INDEX - October 24, 2007
+1305                   COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+1306       ADDED     NYSE Euronext          Financials        Specialized Finance
+1307      DELETED    Hilton Hotels    Consumer Discretionary   Hotels, Resorts &
+1308                                                                Cruise
+1309                                                                Lines
+1310 
+1312                          S&P 500 INDEX - To Be Announced
+1313                   COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+1314       ADDED   Titanium Metals          Materials        Diversified Metals &
+1315                                                                Mining
+1316      DELETED    Bausch & Lomb          Health Care       Health Care Supplies
+1317    
+1318 
+1454                          S&P 500 INDEX -- August 24, 2007
+1455 
+1832                           S&P 500 INDEX - July 11, 2007
+1833 
+1924                          S&P 500 INDEX - July 6, 2007
+1925 
+2020                         S&P 500 INDEX - June 29, 2007
+2021                 COMPANY         GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+2022 
+2136                           S&P 500 INDEX - June 29, 2007
+2137                   COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+2138       ADDED       Covidien            Health Care      Health Care Equipment
+2139                Tyco Electronics  Information Technology       Electronic
+2140                                                            Manufacturing
+2141                                                               Services
+2142              Tyco International       Industrials            Industrial
+2143                    (new)                                   Conglomerates
+2144              Discover Financial       Financials          Consumer Finance
+2145                   Services
+2146      DELETED     Sanmina-SCI     Information Technology       Electronic
+2147                                                            Manufacturing
+2148                                                               Services
+2149                  PMC-Sierra     Information Technology     Semiconductors
+2150              Tyco International       Industrials            Industrial
+2151                    (old)                                   Conglomerates
+2152                     ADC         Information Technology     Communications
+2153              Telecommunications                              Equipment
+2154 
+2300                          S&P 500 INDEX - May 31, 2007
+2301                  COMPANY           GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+2302     ADDED    Precision Castparts       Industrials          Aerospace & Defense
+2303     DELETED     MedImmune             Health Care              Biotechnology
+2304 
+2458                          S&P 500 INDEX - To Be Announced
+2459 
+2709                         S&P 500 INDEX - April 9, 2007
+2710 
+2815                         S&P 500 INDEX - March 28, 2007
+2816                   COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+2817                                      SECTOR
+2818       ADDED    Abercrombie &        Consumer             Apparel Retail
+2819                    Fitch          Discretionary
+2820      DELETED     Univision          Consumer         Broadcasting & Cable TV
+2821                                   Discretionary
+2822 
+2970                         S&P 500 INDEX - March 30, 2007
+2971 
+3082                         S&P 500 INDEX - March 20, 2007
+3083 
+3150                        S&P 500 INDEX - To Be Announced
+3151                    COMPANY          GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+3152     ADDED    Host Hotels & Resorts      Financials         Specialized REITs
+3153     DELETED     Phelps Dodge            Materials          Diversified Metals
+3154                                                                & Mining
+3155 
+3217                         S&P 500 INDEX - March 1, 2007
+3218 
+3389                        S&P 500 INDEX - To Be Announced
+3390                 COMPANY   GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+3391     ADDED       Varian        Health Care        Health Care Equipment
+3392     DELETED  Equity Office    Financials             Office REITs
+3393               Properties
+3394 
+3396                        S&P 500 INDEX - To Be Announced
+3397                 COMPANY    GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+3398     ADDED   Integrys Energy     Utilities            Multi-Utilities
+3399     DELETED  Peoples Energy     Utilities             Gas Utilities
+3400 
+3505                        S&P 500 INDEX - February 1, 2007
+3506 
+3672                              S&P 500 INDEX - TBA
+3673 
+3750                        S&P 500 INDEX - January 3, 2007
+3751 

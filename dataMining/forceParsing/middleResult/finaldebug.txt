@@ -1,0 +1,167 @@
+                          S&P 500 INDEX   - November 12, 2008
+                  COMPANY         GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+     DELETED General Growth            Financials             Retail REITs
+                Properties
+             COMPANY         GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+     ADDED   Cephalon            Health Care               Biotechnology
+                      S&P 500 INDEX - September 29, 2008
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    DELETED   Washington Mutual       Financials           Thrifts & Mortgage
+                                                                Finance
+                   COMPANY        GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED         Flowserve           Industrials         Industrial Machinery
+                       S&P 500 INDEX - September 16, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+     DELETED  Lehman Brothers         Financials        Investment Banking &
+                  Holdings                                   Brokerage
+                       S&P 500 INDEX - September 19, 2008
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED        Harris       Information Technology     Communications
+                                                             Equipment
+                             S&P 500 INDEX - TBA
+             COMPANY            GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+    ADDED    CF Industries      Materials                    Fertilizers &
+                                                             Agricultural
+                                                             Chemicals
+    DELETED  Electronic Data    Information Technology       Data Processing &
+             Systems                                         Outsourced
+                                                             Services
+                        S&P 500 INDEX - December 20, 2007
+             COMPANY            GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+    ADDED    Range Resources    Energy                     Oil & Gas
+                                                            Exploration &
+                                                            Production
+    DELETED  Tribune            Consumer Discretionary     Publishing
+                             S&P 500 INDEX -- TBA
+             COMPANY          GICS ECONOMIC SECTOR         GICS SUB-INDUSTRY
+                                                               Computer &
+    ADDED    GameStop        Consumer Discretionary         Electronics Retail
+    DELETED   Dow Jones & Co. Consumer Discretionary            Publishing
+                       S&P 500 INDEX - October 25, 2007
+                   COMPANY        GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+    ADDED         Jacobs           Industrials      Construction & Engineering
+                  Engineering
+    DELETED        Avaya Inc.       Information      Communications Equipment
+                                   Technology
+                         S&P 500 INDEX - October 24, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED     NYSE Euronext          Financials        Specialized Finance
+     DELETED    Hilton Hotels    Consumer Discretionary   Hotels, Resorts &
+                                                               Cruise
+                                                               Lines
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED   Titanium Metals          Materials        Diversified Metals &
+                                                               Mining
+     DELETED    Bausch & Lomb          Health Care       Health Care Supplies
+                         S&P 500 INDEX -- August 24, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED   Leucadia National        Financials       Multi-Sector Holdings
+     DELETED      Keyspan              Utilities          Multi-Utilities
+                          S&P 500 INDEX - July 11, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED        Akamai       Information Technology  Internet Software &
+                Technologies                                  Services
+     DELETED        Biomet            Health Care       Health Care Equipment
+                         S&P 500 INDEX - July 6, 2007
+                  COMPANY      GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED     American Capital       Financials          Asset Management &
+                Strategies                                 Custody Bank
+    DELETED    Dollar General   Consumer Discretionary   General Merchandise
+                                                                 Stores
+                        S&P 500 INDEX - June 29, 2007
+                COMPANY         GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED  The Bank of New York      Financials          Asset Management &
+              Mellon Corp.                                Custody Banks
+            General Growth          Financials            Retail REITs
+              Properties
+    DELETED The Bank of New         Financials          Asset Management &
+             York Company                                  Custody Banks
+            Mellon Financial        Financials          Asset Management &
+                                                           Custody Banks
+                          S&P 500 INDEX - June 29, 2007
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED       Covidien            Health Care      Health Care Equipment
+               Tyco Electronics  Information Technology       Electronic
+                                                           Manufacturing
+                                                              Services
+             Tyco International       Industrials            Industrial
+                   (new)                                   Conglomerates
+             Discover Financial       Financials          Consumer Finance
+                  Services
+     DELETED     Sanmina-SCI     Information Technology       Electronic
+                                                           Manufacturing
+                                                              Services
+                 PMC-Sierra     Information Technology     Semiconductors
+             Tyco International       Industrials            Industrial
+                   (old)                                   Conglomerates
+                    ADC         Information Technology     Communications
+             Telecommunications                              Equipment
+                         S&P 500 INDEX - May 31, 2007
+                 COMPANY           GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Precision Castparts       Industrials          Aerospace & Defense
+    DELETED     MedImmune             Health Care              Biotechnology
+                         S&P 500 INDEX - To Be Announced
+                   COMPANY       GICS ECONOMIC SECTOR       GICS SUB-INDUSTRY
+    ADDED      MEMC Electronic   Information Technology       Semiconductor
+                 Materials                                      Equipment
+    DELETED    Kinder Morgan            Energy              Oil & Gas Storage
+                                                            & Transportation
+                        S&P 500 INDEX - April 9, 2007
+               COMPANY      GICS ECONOMIC    GICS SUB-INDUSTRY
+                               SECTOR
+    ADDED      Assurant      Financials   Multi-line Insurance
+    DELETED    Realogy       Financials   Real Estate Management & Development
+                        S&P 500 INDEX - March 28, 2007
+                  COMPANY         GICS ECONOMIC         GICS SUB-INDUSTRY
+                                     SECTOR
+      ADDED    Abercrombie &        Consumer             Apparel Retail
+                   Fitch          Discretionary
+     DELETED     Univision          Consumer         Broadcasting & Cable TV
+                                  Discretionary
+                        S&P 500 INDEX - March 30, 2007
+                 COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+    ADDED        Kraft Foods    Consumer Staples        Packaged Foods & Meats
+    DELETED      Sabre Holdings Information Technology  Data Processing &
+                                                         Outsourced Services
+                        S&P 500 INDEX - March 20, 2007
+                  COMPANY         GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED        Developers            Financials             Retail REITs
+             Diversified Realty
+    DELETED     Caremark Rx          Health Care          Health Care Services
+                       S&P 500 INDEX - To Be Announced
+                   COMPANY          GICS ECONOMIC SECTOR   GICS SUB-INDUSTRY
+    ADDED    Host Hotels & Resorts      Financials         Specialized REITs
+    DELETED     Phelps Dodge            Materials          Diversified Metals
+                                                               & Mining
+                        S&P 500 INDEX - March 1, 2007
+                      COMPANY          GICS ECONOMIC SECTOR  GICS SUB-INDUSTRY
+    ADDED           CH Robinson            Industrials          Air Freight &
+                     Worldwide                                    Logistics
+    DELETED      Health Management         Health Care           Health Care
+                    Associates                                    Facilities
+                       S&P 500 INDEX - To Be Announced
+                COMPANY   GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED       Varian        Health Care        Health Care Equipment
+    DELETED  Equity Office    Financials             Office REITs
+              Properties
+                COMPANY    GICS ECONOMIC SECTOR     GICS SUB-INDUSTRY
+    ADDED   Integrys Energy     Utilities            Multi-Utilities
+    DELETED  Peoples Energy     Utilities             Gas Utilities
+                       S&P 500 INDEX - February 1, 2007
+                  COMPANY         GICS ECONOMIC SECTOR      GICS SUB-INDUSTRY
+    ADDED    Polo Ralph Lauren   Consumer Discretionary   Apparel, Accessories
+                                                             & Luxury Goods
+                             S&P 500 INDEX - TBA
+                  COMPANY        GICS ECONOMIC SECTOR    GICS SUB-INDUSTRY
+      ADDED      AvalonBay            Financials         Residential REITs
+     DELETED       Symbol       Information Technology  Electronic Equipment
+                Technologies                               Manufacturers
+                       S&P 500 INDEX - January 3, 2007
+             COMPANY            GICS ECONOMIC          GICS SUB-INDUSTRY
+                                SECTOR
+    ADDED    ENSCO              Energy                 Oil & Gas
+             International                             Drilling
+    DELETED  BellSouth          Telecommunication      Integrated
+                                Services               Telecommunication
+                                                       Services
